@@ -155,7 +155,6 @@ const icons: IconDefinition[] = [
     FixbarComponent,
     FooterComponent,
     UploadComponent,
-    IconGitComponent,
     NoDataComponent,
     SearchEngineComponent,
     LoginComponent,
